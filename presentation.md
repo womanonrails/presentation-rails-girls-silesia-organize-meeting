@@ -97,7 +97,7 @@ class: middle
 
 - fun and work
 - knowledge
-- inspiring
+- inspiration
 - help
 - show it's simple
 
@@ -132,10 +132,10 @@ class: middle
 # At the end
 
 - if it will be needed we can change groups
-- we are yours bodyguards: problem - ask
+- we are your bodyguards: problem - ask
 - encoding standard
-- carrierwave - work, RMagic - nop
-- 2 consoles: one - server, second - command line
+- carrierwave - works, RMagic - nope
+- 2 consoles: first - server, second - command line
 - dir / cd
 
 ---
